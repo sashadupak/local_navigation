@@ -1,8 +1,8 @@
 # local_navigation
-local navigation using odometry and gyroscope
+Local navigation using odometry and gyroscope
 
 ## Description
-The robot is based on two wheels with a differential drive. There are onboard ultrasonics sensors and hyroscope.
+The robot based on two wheels with a differential drive. There are onboard ultrasonic sensors and gyroscope.
 ## Mission
 The robot must reach the given coordinates with minimal distance error.
 ## Results
